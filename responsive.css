@@ -1,0 +1,16 @@
+@media (max-width: 600px) {
+
+    .form{
+        width: 90%;
+        
+    }
+
+    .content{
+        margin-top: 15%;
+    }
+
+    .fn{
+        margin-top: 20%;
+    }
+    
+}
